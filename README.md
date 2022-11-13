@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=JeWon's%20GitHub&fontSize=70&animation=scaleIn)
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/TYPESCRIPT-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CHOIJEWON&show_icons=true&theme=radical) 
