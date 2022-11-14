@@ -5,6 +5,10 @@
 <br>
 <br>
 👏 비전공자로 시작하여 느리지만 계속 성장해 나아가는 최제원 입니다 👏 
+### 🫶 이력서 Notion 🫶
+[![Notion Badge](http://img.shields.io/badge/-Notion-20c997?style=flat&link=https://great-cough-b9a.notion.site/fd306eef8e004391a5f8c0fb96a0ef0f)](https://great-cough-b9a.notion.site/fd306eef8e004391a5f8c0fb96a0ef0f)
+<br>
+<br>
 ### ☁️ Cloud Service ☁️
 <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-for-the-badge&logo=JavaScript&logoColor=white"></a>
 <br>
