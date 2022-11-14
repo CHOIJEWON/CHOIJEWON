@@ -32,12 +32,10 @@
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-for-the-badge&logo=Prisma&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-for-the-badge&logo=Sequelize&logoColor=white"></a>
 <div>
+<br>
+<br>
  
- 
- 
- 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CHOIJEWON&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOIJEWON&layout=compact&theme=dracula)](https://github.com/CHOIJEWON)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CHOIJEWON&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOIJEWON&layout=compact&theme=dracula)](https://github.com/CHOIJEWON)
 
 
 
