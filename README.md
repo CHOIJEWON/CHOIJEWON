@@ -7,6 +7,8 @@
 👏 비전공자로 시작하여 느리지만 계속 성장해 나아가는 최제원 입니다 👏 
 <br>
 <br>
+### Velog
+<a href="https://velog.io/@erictomi"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 ### ☁️ Cloud Service ☁️
 <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-for-the-badge&logo=JavaScript&logoColor=white"></a>
 <br>
@@ -32,6 +34,9 @@
 <div>
 <br>
 <br>
+ 
+
+
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CHOIJEWON&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOIJEWON&layout=compact&theme=dracula)](https://github.com/CHOIJEWON)
 
