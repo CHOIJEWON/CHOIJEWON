@@ -17,6 +17,23 @@ Code should be readable, testable, and maintainable. Always.
 ---
 
 ```bash
+$ cat ~/.oss-contributions # Open Source Journey
+```
+
+<div align="center">
+
+### 🚀 Active Contributions
+
+</div>
+
+| Project | Contribution | Status | Description |
+|---------|-------------|--------|-------------|
+| **[TypeORM](https://github.com/typeorm/typeorm)** | [UTC flag for date columns](https://github.com/typeorm/typeorm/pull/11740) | `☑️ merged` | Adding UTC timezone support across all DB drivers |
+| **[MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)** | [Custom reconnection scheduler](https://github.com/modelcontextprotocol/typescript-sdk/pull/1177) | `🔄 In Progress` | Enabling reconnection in serverless environments |
+
+---
+
+```bash
 $ ls tech-stack/
 ```
 
