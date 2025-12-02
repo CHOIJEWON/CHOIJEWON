@@ -26,7 +26,7 @@ $ cat ~/.oss-contributions # Open Source Journey
 
 </div>
 
-#### **[TypeORM](https://github.com/typeorm/typeorm)** - Popular TypeScript ORM
+#### **[TypeORM - Popular TypeScript ORM](https://github.com/typeorm/typeorm)** 
 
 | PR | Status | Description |
 |---------|--------|-------------|
