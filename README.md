@@ -26,10 +26,18 @@ $ cat ~/.oss-contributions # Open Source Journey
 
 </div>
 
-| Project | Contribution | Status | Description |
-|---------|-------------|--------|-------------|
-| **[TypeORM](https://github.com/typeorm/typeorm)** | [UTC flag for date columns](https://github.com/typeorm/typeorm/pull/11740) | `☑️ merged` | Adding UTC timezone support across all DB drivers |
-| **[MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)** | [Custom reconnection scheduler](https://github.com/modelcontextprotocol/typescript-sdk/pull/1177) | `🔄 In Progress` | Enabling reconnection in serverless environments |
+#### **[TypeORM](https://github.com/typeorm/typeorm)** - Popular TypeScript ORM
+
+| PR | Status | Description |
+|---------|--------|-------------|
+| [#11740 - UTC flag for date columns](https://github.com/typeorm/typeorm/pull/11740) | `✅ Merged` | Adding UTC timezone support across all database drivers |
+| [#11814 - Missing findBy in MongoDB](https://github.com/typeorm/typeorm/pull/11814) | `✅ Merged` | Fixing missing `findBy()` method in MongoEntityManager |
+
+#### **[Model Context Protocol - TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)**
+
+| PR | Status | Description |
+|---------|--------|-------------|
+| [#1177 - Custom reconnection scheduler](https://github.com/modelcontextprotocol/typescript-sdk/pull/1177) | `🔄 In Progress` | Enabling reconnection in serverless & mobile environments |
 
 ---
 
