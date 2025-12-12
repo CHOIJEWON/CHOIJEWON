@@ -26,7 +26,18 @@ $ cat ~/.oss-contributions # Open Source Journey
 
 </div>
 
-#### **[TypeORM - Popular TypeScript ORM](https://github.com/typeorm/typeorm)** 
+#### **[TypeORM - TypeScript ORM](https://github.com/typeorm/typeorm)** 
+
+| PR | Status | Description |
+|---------|--------|-------------|
+| [#11740 - UTC flag for date columns](https://github.com/typeorm/typeorm/pull/11740) | `✅ Merged` | Adding UTC timezone support across all database drivers |
+| [#11814 - Missing findBy in MongoDB](https://github.com/typeorm/typeorm/pull/11814) | `✅ Merged` | Fixing missing `findBy()` method in MongoEntityManager |
+| [#11820 - fix postgres upsert](https://github.com/typeorm/typeorm/pull/11820) | `🔄 In progress` | Fixing PostgreSQL upsert not working when primary key is explicitly provided as conflict path |
+
+#### **[node-mysql2 - node MySQL Driver](https://github.com/sidorares/node-mysql2)** 
+| PR | Status | Description |
+|---------|--------|-------------|
+| [#3958 - add state getter to track connection lifecycle](https://github.com/sidorares/node-mysql2/pull/3958) | `🔄 In progress` | implement a state getter method for checking the connection state |
 
 | PR | Status | Description |
 |---------|--------|-------------|
