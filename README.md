@@ -42,7 +42,7 @@ $ cat ~/.oss-contributions # Open Source Journey
 #### **[node-mysql2 - node MySQL Driver](https://github.com/sidorares/node-mysql2)** 
 | PR | Status | Description |
 |---------|--------|-------------|
-| [#3958 - add state getter to track connection lifecycle](https://github.com/sidorares/node-mysql2/pull/3958) | `🔄 In progress` | implement a state getter method for checking the connection state |
+| [#3958 - add state getter to track connection lifecycle](https://github.com/sidorares/node-mysql2/pull/3958) | `✅ Merged` | implement a state getter method for checking the connection state |
 
 
 #### **[Model Context Protocol - TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)**
